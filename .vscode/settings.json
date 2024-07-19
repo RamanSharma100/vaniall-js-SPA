@@ -1,0 +1,7 @@
+{
+  "javascript.referencesCodeLens.enabled": true,
+  "javascript.referencesCodeLens.showOnAllFunctions": true,
+  "files.associations": {
+    "*.js": "javascript"
+  }
+}
